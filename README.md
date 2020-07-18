@@ -10,3 +10,12 @@ The Fund will strictly invest according to the following tenants:
 -	SeHo Capital Management seeks to invest in large companies with a healthy liquidity, solid balance sheet, predictable cash flow and good corporate governance.
 -	SeHo Capital Management will provide its investors with a monthly newsletter to illustrate the current asset allocation. 
 -	Hence, in order to facilitate thorough analyses, the Fund restricts its total number of assets at any given point in time to XX.
+
+
+## To do portfolio weights:
+
+- Add yahoo finance import (commodities (gold, oil, agriculture), bonds (gov and private) and stock indices (US, Europe, Emerging, China and Japan)) 
+- Calculate expected return based on risk factors
+    - Reoptimize portfolio
+- Optimize based on CVaR ? 
+
