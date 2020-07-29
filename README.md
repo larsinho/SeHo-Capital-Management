@@ -15,5 +15,6 @@ The Fund will strictly invest according to the following tenants:
 ## To do portfolio weights:
 
 - Optimize based on CVaR ? 
-- Calculate expected returns based on CAPM ?
+- Calculate expected returns based on CAPM?
 
+# FEMSA ? - fmx
